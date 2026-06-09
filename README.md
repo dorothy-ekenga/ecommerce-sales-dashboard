@@ -65,14 +65,14 @@ The dashboard was designed to help stakeholders identify top-performing products
 
 This dashboard provides a high-level view of business performance, including revenue, profit, product performance, regional sales trends, and payment methods.
 
-![Overview Dashboard](dashboard-overview.png)-
+![Overview Dashboard](dashboard. png)-
 
 ## Dashboard Preview
 
 
 ### Overview Dashboard
 
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](dashboard.png)
 
 ### Sales Analysis Dashboard
 
