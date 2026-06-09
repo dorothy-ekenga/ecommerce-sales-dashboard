@@ -69,7 +69,6 @@ This dashboard provides a high-level view of business performance, including rev
 
 ## Dashboard Preview
 
-Insert dashboard screenshots here.
 
 ### Overview Dashboard
 
