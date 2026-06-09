@@ -59,7 +59,13 @@ The dashboard was designed to help stakeholders identify top-performing products
 * Optimize the checkout experience around customers' preferred payment methods.
 * Regularly monitor low-profit products to ensure they contribute positively to overall business performance.
 
----
+--## Dashboard Preview
+
+### Overview Dashboard
+
+This dashboard provides a high-level view of business performance, including revenue, profit, product performance, regional sales trends, and payment methods.
+
+![Overview Dashboard](dashboard-overview.png)-
 
 ## Dashboard Preview
 
@@ -71,7 +77,7 @@ Insert dashboard screenshots here.
 
 ### Sales Analysis Dashboard
 
-![Sales Analysis](dashboard-analysis.png)
+![Sales Analysis](dashboard.png)
 
 ---
 
